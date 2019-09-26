@@ -1,4 +1,4 @@
 # SwiftUIDemo
 
- How to create multiline text using SwiftUI.
+ Implemention of sample to add multiple text in multiple line in SwiftUI
 
